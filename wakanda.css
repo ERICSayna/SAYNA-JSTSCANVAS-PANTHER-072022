@@ -1,0 +1,157 @@
+body{
+    background-image: url("Illustrations + Logo/Wakanda/Pantherwakanda1.png"); z-index: 1;
+    background-repeat: no-repeat;
+    background-color: rgba(11, 3, 53, 0.377);
+    background-position-x: center;
+    background-position-y: top;
+    height: auto;
+                }
+    div.head{
+                    float: left;
+                   text-align: left;
+                   padding-top: 1cm;
+                   margin-top: 0;
+                   padding-bottom: 0;
+                   padding-left: 2cm;
+                }
+header{
+    background-color: rgba(1, 1, 27, 0.548);
+    padding-top: 0;
+    padding-left: 0;
+    font-family: 'beyno', sans-serif;
+    font-size: medium;
+}
+h1{
+    font-family: 'beyno', sans-serif;
+    font-size: 250%;
+    width: 20cm;
+    color:rgb(168, 135, 168);
+    padding-bottom: 0;
+}
+h2{
+       color:rgb(168, 135, 168);
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+h3{
+    font-family: 'beyno', sans-serif;
+    color:rgb(168, 135, 168);
+}
+div.wak1{
+   padding-top: 0;
+   margin-top: 0;
+    text-align: justify;
+   font-size: smaller;
+   width: 8cm;
+}
+div.waka1{
+    background-image: url("Illustrations + Logo/Wakanda/Pantherwakanda2.png");
+    background-repeat: no-repeat;
+    margin-top: 12.5cm;
+    padding-top: 2cm;
+}
+div.utub{
+    background-color:  purple;
+    background-position: inherit;
+    background-clip: border-box purple;
+    border-left: 0.5cm;
+    border-top: 0.5cm;
+    border-right: 0.5cm;
+    padding-left: 0.5cm;
+    padding-top: 0.5cm;
+    padding-right: 0.5cm;
+    padding-bottom: 0.5cm;
+    border: 1px solid purple;
+    color: white;
+    margin-top: 0.5cm;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-align: center;
+    width: 11cm;
+    height: 3cm;
+    position: relative;
+    font-size: small;
+  }
+
+div.waka2{
+    text-align: justify;
+    font-size: smaller;
+    padding-top: 0cm;
+    margin-top: -2cm;
+    width: 12cm;
+}
+
+div.waka3{
+    position :relative;
+    border-style: none;
+    text-align: center;
+}
+table{
+    margin-left: 2cm;
+    margin-right: 0cm;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    border: 0cm;
+     }
+
+td{
+    padding-left: 1cm;
+    padding-right: 1cm;
+    width: 10cm;
+}
+
+tr{
+    padding-left: 1cm;
+    padding-right: 1cm;
+    width: 10cm;
+}
+
+
+
+footer{
+    padding-top: 0cm;
+    margin-top: 1cm;
+    padding-left: 5cm;
+    background-color: rgba(8, 8, 56, 0.671);
+height: 10cm;padding-bottom: 0;margin-bottom: 0;
+}
+div.foot{
+    position: absolute;
+    padding-top: 0;
+    padding-left: -4cm;
+    margin-top: 0;
+    float: top;
+    margin-left: -2cm;
+    margin-bottom: 0;
+}
+div.footp{
+    text-align: center;
+    padding-left: 0cm;
+    margin-left: -4cm;
+    padding-top: 5cm;
+    font-size: small;
+   }
+   div.nous{
+    text-align: left;
+    padding-left: -7cm;
+    padding-top: 4.5cm;
+    margin-left: -10m;
+    font-size: smaller;
+    width: 8cm;
+          }
+div.foot1{
+    padding-top: 4cm;
+    padding-left: 2cm;
+    margin-left: -8cm;
+    position: absolute;
+}
+div.pfoot{
+    padding-top: 0cm;
+    text-align: center;
+    padding-left: 8cm;
+    font-size: large;
+    
+}

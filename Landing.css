@@ -1,0 +1,284 @@
+div.head{
+    text-align: right;
+    padding-top: 1cm;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 2cm;
+    padding-right: 2cm;
+ }
+ body{
+     margin-left: 2cm;
+     background-color: rgb(23, 8, 63);
+ }
+ 
+ p{
+     color: white;
+ }
+ 
+ h3{
+     font-family: 'beyno', sans-serif;
+     color: rgb(95, 45, 95);
+    }
+ h1{
+     font-size: 300%;
+     color:  rgb(95, 45, 95) ;
+     width: 20cm;
+    }
+ div.p1{
+     width: 10cm;
+     font-size: small;
+     margin-left: 2cm;
+     text-align: justify;
+     padding-top: 0;
+     margin-top: 0;
+ }
+ body{
+     background-image: url(Illustrations\ +\ Logo\+Accueil/.Pantherhome1.png);
+     background-repeat: no-repeat;
+     margin-left: 0;
+ }
+ div.tablem{
+     text-decoration: rgb(17, 0, 255);
+     margin-left: 3cm;
+     margin-right: -1cm;
+     padding-right: -1cm;
+     padding-left: 2cm;
+     padding-top: 0;
+     text-align: justify;
+     padding-left: 0;
+     font-size: small;
+     background-color: rgba(7, 7, 95, 0.904);
+     height: 7.9cm;
+        
+ }
+ div.p2{
+     padding-top: 1cm;
+     padding-left: 0.5cm;
+     padding-right: 0.5cm;
+     margin-left: 0.5cm;
+     margin-right: 0.5cm;
+ }
+ div.legende1{
+     text-align: center;
+     padding-left: -1cm;
+ }
+ div.p4{
+     background-color:  rgb(38, 31, 104);
+     background-position: inherit;
+     background-clip: border-box rgb(38, 31, 104);
+     border-left: 0.5cm;
+     border-top: 0.5cm;
+     border-right: 0.5cm;
+     border-radius: 5%;
+     padding-left: 0.5cm;
+     padding-top: 0.5cm;
+     padding-right: 0.5cm;
+     padding-bottom: 0.5cm;
+     border: 1px solid rgb(38, 31, 104);
+     color: white;
+     margin-top: 0.5cm;
+     margin-left: 0;
+     margin-right: 0;
+     margin-bottom: 0.5cm;
+     border-radius: 10px;
+     text-align: center;
+     width: 3cm;
+     height: 2cm;
+     position: relative;
+     font-size: small;
+     display: inline;
+     }
+        
+ div.legende{
+     border-radius: 2%;
+     background-color: white;
+     backface-visibility: visible;
+     text-align: left;
+     color: black;
+     padding-top: 7cm;
+     margin-top: 7cm;
+     padding-left: 1.5cm;
+     padding-right: 1cm;
+     margin-right: 0;
+     width: 9cm;
+     font-size: small;
+     color: rgb(38, 31, 104);
+     padding-bottom: 3cm;
+ }
+ div.prince{
+     padding-top: -1cm;
+     margin-top: 0cm;
+     text-align: left;
+     padding-left: 0.7cm;
+ }
+ 
+ div.p3{
+     text-align: justify;
+     font-size: small;
+     margin-left: 3cm;
+     padding-left: 2cm;
+     padding-top: 3cm;
+     padding-right: 3cm;
+     width: 20cm;
+ }
+ div.spec{
+     height: 5cm;
+     background-color:  rgba(7, 7, 95, 0.904);
+     padding-top: 0;
+     border :25cm 5cm;
+ }
+ div.ima{
+     padding-top: -0.5cm;
+     margin-top: -0.5cm;
+     margin-bottom: 0;
+     padding-bottom: 0;
+ }
+ 
+ div.ima1{
+     padding-top: -1cm;
+     margin-top: -3cm;
+ }
+ 
+ table{
+     margin-top: 0;
+     padding-top: 0;
+     margin-left: 2cm;
+     text-align: justify;
+     font-size: small;
+     height: 5cm;
+ }
+ 
+ div.last1{
+     border-radius: 25%;
+     border:white solid;
+     background-color:white;
+     opacity: 0.4;
+     backface-visibility: initial;
+     text-align: left;
+     color: black;
+     padding-top: 1cm;
+     margin-top: -20cm;
+     margin-left: 15cm;
+     padding-left: 1.5cm;
+     padding-right: 1cm;
+     margin-right: 0;
+     width: 18cm;
+     height: 10cm;
+     font-size: xx-large;
+     padding-bottom: 3cm;
+     position: absolute;
+     text-align: center;
+ }
+ div.last2{
+     text-align: center;
+     padding-left: 0cm;
+     padding-top: 1cm;
+     font-size: smaller;
+ }
+ 
+ div.p5{
+     background-color:  transparent;
+     background-position: inherit;
+     background-clip: border-box black;
+     border-left: 0.5cm;
+     border-top: 0.5cm;
+     border-right: 0.5cm;
+     border-radius: 25%;
+     padding-left: 0.5cm;
+     padding-top: 0.1cm;
+     padding-right: 0.5cm;
+     padding-bottom: 0.1cm;
+     border: 1px solid black ;
+     margin-top: 0.5cm;
+     margin-left: 4cm;
+     margin-right: 0;
+     margin-bottom: 0.5cm;
+     border-radius: 10px;
+     text-align: center;
+     font-size: small;
+     width: 12cm;
+     height: 3cm;
+     position: relative;
+     font-size: small;
+     display: inline;
+     font-size: large;
+     text-align: center;
+     }
+ 
+     div.p6{
+         background-color:  white;
+         background-position:100%;
+         z-index: absolute;
+         backface-visibility: absolute ;
+         background-clip: border-box black;
+         border-left: 0.5cm;
+         border-top: 0.5cm;
+         border-right: 0.5cm;
+         border-radius: 25%;
+         padding-left: 0.5cm;
+         padding-top: 0.2cm;
+         padding-right: 0.5cm;
+         padding-bottom: 0.2cm;
+         border: 1px solid black ;
+         margin-top: 0.5cm;
+         margin-left: 7cm;
+         margin-right: 2cm;
+         margin-bottom: 0.5cm;
+         border-radius: 25px;
+         font-size: medium;
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         width: 3cm;
+         height: 5cm;
+         position: relative;
+         display: inline;
+         text-align: center;
+         color:rgb(132, 98, 143) ;
+         }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ footer{
+     padding-top: 0cm;
+     margin-top: 1cm;
+     padding-left: 5cm;
+     background-color: rgba(8, 8, 56, 0.671);
+ height: 10cm;padding-bottom: 0;margin-bottom: 0;
+ }
+ div.foot{
+     position: absolute;
+     padding-top: 0;
+     margin-top: 0;
+     float: top;
+     margin-left: 0;
+     margin-bottom: 0;
+ }
+ div.footp{
+     text-align: center;
+     padding-left: 12cm;
+     padding-top: 5cm;
+     font-size: large;
+    }
+    div.nous{
+     text-align: center;
+     padding-left: 5cm;
+     padding-top: 5cm;
+       }
+ div.foot1{
+     padding-top: 4cm;
+     padding-left: 2cm;
+     position: absolute;
+ }
+ div.pfoot{
+     padding-top: 0cm;
+     text-align: center;
+     padding-left: 10cm;
+     font-size: large;
+     
+ }
+ 
